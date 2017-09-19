@@ -1,9 +1,9 @@
 # Timeline-Workshop
-Materials for workshop to create temporal visualizations using <a href="https://timeline.knightlab.com/">Timeline JS</a>
+Materials for workshop to create temporal visualizations using [TimelineJS](https://timeline.knightlab.com/)
 
 ### Step 1: 
 
-  Build a new Google Spreadsheet using the <a  href="https://drive.google.com/previewtemplate?id=1pHBvXN7nmGkiG8uQSUB82eNlnL8xHu6kydzH_-eguHQ&mode=public">template</a> created by the Timeline JS folks or use the SampleTimeline.xlsx data and template for this workshop.
+  Build a new Google Spreadsheet using the [template](https://drive.google.com/previewtemplate?id=1pHBvXN7nmGkiG8uQSUB82eNlnL8xHu6kydzH_-eguHQ&mode=public) created by the TimelineJS folks or use the SampleTimeline.xlsx data and template for this workshop.
 
 + What kind of data will you need to include in the template? 
   Open the template and review the column headers.
@@ -50,16 +50,16 @@ Materials for workshop to create temporal visualizations using <a href="https://
 
 + | Background |
   
-  + Use RGB hex values or <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/color_value#Color_keywords ">keywords</a>
+  + Use [RGB hex values](http://www.rapidtables.com/web/color/RGB_Color.htm) or [keywords](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value#Color_keywords)
   
 ### Step 2: Back to Google Spreadsheets 
   
 + Select “File” and “Publish to the Web” 
-+ Select “Publish” and copy the URL for use with Timeline JS.
++ Select “Publish” and copy the URL for use with TimelineJS.
 
 ### Step 3: Generate Timeline
    
-+ Paste the URL on the Timeline JS page under Step 3 to generate your timeline
++ Paste the URL on the TimelineJS page under Step 3 to generate your timeline
 + Review optional settings for your timeline where you can select from a list of fonts, languages, and change the zoom level for your timeline
 
 ### Step 4: Publish your timeline
@@ -69,9 +69,9 @@ Materials for workshop to create temporal visualizations using <a href="https://
 
 ### Additional Resources
 
-+ <a href="https://timeline.knightlab.com/docs/index.html">Timeline JS Documentation</a>
-+ Supported <a href="https://timeline.knightlab.com/docs/media-types.html">media types</a> in Timeline JS
-+ <a href="https://github.com/NUKnightLab/TimelineJS-Wordpress-Plugin">Plugin</a> to embed a timeline in WordPress
-+ Create timeline using <a href="https://timeline.knightlab.com/docs/json-format.html">JSON</a> instead of Google Spreadsheets
++ [TimelineJS Documentation](https://timeline.knightlab.com/docs/index.html)
++ Supported [media types](https://timeline.knightlab.com/docs/media-types.html) in TimelineJS
++ [Plugin](https://github.com/NUKnightLab/TimelineJS-Wordpress-Plugin) to embed a timeline in WordPress
++ Create timeline using [JSON](https://timeline.knightlab.com/docs/json-format.html) instead of Google Spreadsheets
   
   + See example for formatting: TimelineExample.json
