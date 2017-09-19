@@ -1,0 +1,130 @@
+{
+    "events": [
+      {
+        "media": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Official_Presidential_portrait_of_Thomas_Jefferson_%28by_Rembrandt_Peale%2C_1800%29.jpg",
+          "caption": "",
+          "credit": "Rembrandt Peale [Public domain], via Wikimedia Commons"
+        },
+        "start_date": {
+          "month": "4",
+          "day": "13",
+          "year": "1743"
+        },
+        "text": {
+          "headline": "Birth of Thomas Jefferson",
+          "text": "<p>Thomas Jefferson is born to Jane Randolph and Peter Jefferson in <a href='https://www.monticello.org/site/research-and-collections/shadwell'>Shadwell, Virginia</a>.</p>"
+        }
+      },
+      {
+         "media": {
+          "url": "",
+          "caption": "",
+          "credit": ""
+        },
+        "start_date": {
+          "month": "",
+          "day": "",
+          "year": "1760"
+        },
+        "text": {
+          "headline": "Attends the College of William and Mary",
+          "text": "<p>Jefferson <a href='http://www.wm.edu/about/history/tjcollege/tjcollegelife/index.php'>enrolls</a> at the College of William and Mary at the age of 16.</p>"
+        } 
+      },
+      {
+         "media": {
+          "url": "",
+          "caption": "",
+          "credit": ""
+        },
+        "start_date": {
+          "month": "",
+          "day": "",
+          "year": ""
+        },
+         "text": {
+         "headline": "",
+         "text": "<p></p>"
+         }
+         },
+         {
+         "media": {
+          "url": "",
+          "caption": "",
+          "credit": ""
+        },
+        "start_date": {
+          "month": "",
+          "day": "",
+          "year": ""
+        },
+         "text": {
+         "headline": "",
+         "text": "<p></p>"
+         }
+         },
+         {
+         "media": {
+          "url": "",
+          "caption": "",
+          "credit": ""
+        },
+        "start_date": {
+          "month": "",
+          "day": "",
+          "year": ""
+        },
+         "text": {
+         "headline": "",
+         "text": "<p></p>"
+         }
+         },
+         {
+         "media": {
+          "url": "",
+          "caption": "",
+          "credit": ""
+        },
+        "start_date": {
+          "month": "",
+          "day": "",
+          "year": ""
+        },
+         "text": {
+         "headline": "",
+         "text": "<p></p>"
+         }
+         },
+         {
+         "media": {
+          "url": "",
+          "caption": "",
+          "credit": ""
+        },
+        "start_date": {
+          "month": "",
+          "day": "",
+          "year": ""
+        },
+         "text": {
+         "headline": "",
+         "text": "<p></p>"
+         }
+         },
+         {
+         "media": {
+          "url": "",
+          "caption": "",
+          "credit": ""
+        },
+        "start_date": {
+          "month": "",
+          "day": "",
+          "year": ""
+        },
+         "text": {
+         "headline": "",
+         "text": "<p></p>"
+         }
+         },
