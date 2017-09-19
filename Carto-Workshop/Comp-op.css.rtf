@@ -1,0 +1,15 @@
+/* CSS snippet to create markers sized by the square root of the number of venues in an area.*/
+/* Can swap #venues for different value/column in data set */ 
+/* More info on composition operations (comp-op) can be found here: http://academy.cartodb.com/courses/intermediate-design/use-composite-operations/ */
+
+#venues{
+  marker-fill-opacity: 0.9;
+  marker-line-color: #FFF;
+  marker-line-width: 0;
+  marker-line-opacity: 1;
+  marker-placement: point;
+  marker-type: ellipse;
+  marker-width: 10*[sqrtcnt];
+  marker-fill: #7B00B4;
+  marker-comp-op: plus;
+}

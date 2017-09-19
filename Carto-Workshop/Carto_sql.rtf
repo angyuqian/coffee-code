@@ -1,0 +1,18 @@
+/* SQL script to count all appearances at specific location and venue. Displays the years in the info box and pulls in other data (such as image_url) */
+
+
+SELECT
+the_geom_webmercator,
+location_1,
+venue,
+image_url,
+string_agg(dates::text,', ') event_dates,
+count(1) cnt,
+sqrt(count(1)) sqrtcnt,
+max(cartodb_id) cartodb_id
+FROM
+sampleperfdata_europe
+GROUP BY
+the_geom_webmercator, location_1, venue, image_url
+ORDER BY
+cnt DESC
