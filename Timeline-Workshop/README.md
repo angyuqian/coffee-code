@@ -1,6 +1,8 @@
 # Timeline-Workshop
 Materials for workshop to create temporal visualizations using [TimelineJS](https://timeline.knightlab.com/)
 
+Access workshop [slides](goo.gl/33Xhi7)
+
 ### Step 1: 
 
   Build a new Google Spreadsheet using the [template](https://drive.google.com/previewtemplate?id=1pHBvXN7nmGkiG8uQSUB82eNlnL8xHu6kydzH_-eguHQ&mode=public) created by the TimelineJS folks or use the [SampleTimeline.xlsx](https://github.com/BCDigSchol/coffee-code/blob/master/Timeline-Workshop/SampleTimeline.xlsx) Thomas Jefferson data for this workshop.
