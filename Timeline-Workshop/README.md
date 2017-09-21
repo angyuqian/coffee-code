@@ -1,7 +1,7 @@
 # Timeline-Workshop
 Materials for workshop to create temporal visualizations using [TimelineJS](https://timeline.knightlab.com/)
 
-Access workshop [slides](goo.gl/33Xhi7)
+Access workshop [slides](https://docs.google.com/presentation/d/1gzsPAUWHTwgYlRAUyUXCvQHk8t0a28MrHfqH8nntFQw/edit#slide=id.p)
 
 ### Step 1: 
 
