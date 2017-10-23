@@ -18,4 +18,4 @@ This session will consist of one hands-on exercise:
 - [Exercise 1](exercise-1.md): Create a map using Boston landmarks and neighborhoods data.
 
 ## Resources
-The [resources document](resources.md) includes geospatial visualization, spatial humanities, tutorials, and GIS data sources.
+The [resources document](/Carto-Workshop/Carto-2017-Fall/resources.md) includes geospatial visualization, spatial humanities, tutorials, and GIS data sources.
