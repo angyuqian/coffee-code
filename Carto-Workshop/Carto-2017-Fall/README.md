@@ -12,10 +12,5 @@ Participants will:
 - Create or locate spatial and temporal data. What formats do they exist in? How are they created? How do you clean and manipulate this data?
 - Identify when spatial and temporal visualization is necessary.
 
-## Session Outline
-This session will consist of one hands-on exercise:
-
-- [Exercise 1](exercise-1.md): Create a map using Boston landmarks and neighborhoods data.
-
-## Resources
-The [resources document](/Carto-Workshop/Carto-2017-Fall/resources.md) includes geospatial visualization, spatial humanities, tutorials, and GIS data sources.
+## Session Materials
+Materials in this folder nclude slides, exercise, datasets, and resources.
