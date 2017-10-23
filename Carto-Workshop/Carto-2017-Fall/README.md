@@ -13,4 +13,4 @@ Participants will:
 - Identify when spatial and temporal visualization is necessary.
 
 ## Session Materials
-Materials in this folder nclude slides, exercise, datasets, and resources.
+Materials in this [folder](/Carto-Workshop/Carto-2017-Fall/) include slides, exercise, datasets, and resources.
