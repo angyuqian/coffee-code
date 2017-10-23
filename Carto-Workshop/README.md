@@ -1,6 +1,5 @@
 # Carto Workshop
 
-## Materials
 This repository contains materials used in the Coffee & Code workshops on geospatial visualization with Carto.
 - Current workshop materials can be found in [Carto-2017-Fall](/Carto-2017-Fall)
 - Past workshop materials can be found in [Carto-2016](/Carto-2016)
