@@ -9,6 +9,7 @@
    * Find "Your maps" where you will be able to see your published maps.
 
 2. Download the [Boston_Neighborhoods](/Carto-Workshop/Carto-2017-Fall/datasets/Boston_Neighborhoods.zip) and [Boston_Landmarks](https://docs.google.com/spreadsheets/d/14YL-1j2rHsNtk7aFjbvUFtrOXR55CfbS_elsXSaKx1g/edit) datasets.
+    - these are also in the datasets folder in this GitHub repository.
 
 3. In your Carto dashboard go to "datasets":
     * Select "new dataset" and upload the Boston Landmarks dataset (or connect via Google Drive).
