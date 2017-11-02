@@ -13,13 +13,19 @@ Participants will:
 
 ## Workshop Outline
 
-The workshop will consist of **[a number of]** hands-on exercises:
+### Getting Started with Hypothes.is
 
+1. If you don't already have one, [create a hypothes.is account](https://web.hypothes.is/start).
+2. Join our [Coffee & Code hypothes.is](https://hypothes.is/groups/oBmJ6bz8/coffee-code) group.
+3. Create your first annotation! Let's start with [Lincoln's Second Inaugural Address](https://via.hypothes.is/https://quod.lib.umich.edu/l/lincoln/lincoln8/1:711?rgn=div1;view=fulltext). Be sure to change the selected group from **Public** to **Coffee & Code**.
 
+### Using Hypothes.is in the Classroom
 
 ## Resources
 
-
+- [Hypothes.is home page](https://web.hypothes.is)
+- [Hypothes.is for Education](https://web.hypothes.is/education)
+- [Hypothes.is Help](https://hypothesis.zendesk.com/hc/en-us)
 
 ## Rights
 
