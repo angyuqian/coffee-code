@@ -2,7 +2,7 @@
 
 # Introduction
 
-This session explores web annotation as a strategy for teaching and learning. You will be introduced to Hypothes.is, which allows individuals and groups to publicly or privately discuss any web page—from the popular press to literary works and scholarly journal articles. By creating annotations and participating in interpretive conversations, students develop traditional close reading skills, as well as newer forms of digital and media literacy. Participants will gain hands-on experience creating annotations using Hypothes.is and leave with specific strategies to use Hypothes.is in the classroom.
+This session explores web annotation as a strategy for teaching and learning. You will be introduced to Hypothes.is, which allows individuals and groups to publicly or privately discuss any web page—from the popular press to literary works and scholarly journal articles. By creating annotations and participating in interpretive conversations, students develop traditional close reading skills, as well as newer forms of digital and media literacy.
 
 ## Learning Goals
 
