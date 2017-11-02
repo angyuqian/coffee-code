@@ -8,7 +8,8 @@ This session explores web annotation as a strategy for teaching and learning. Yo
 
 Participants will:
 
-- [outcome 1]
+- practice creating annotations using Hypothes.is
+- articulate specific strategies to use Hypothes.is in the classroom
 
 ## Workshop Outline
 
