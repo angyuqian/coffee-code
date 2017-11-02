@@ -17,7 +17,7 @@ Participants will:
 
 - If you don't already have one, [create a hypothes.is account](https://web.hypothes.is/start), and install the add-on for your preferred browser.
 - Join our [Coffee & Code hypothes.is](https://hypothes.is/groups/oBmJ6bz8/coffee-code) group. During this workshop, we'll create annotations within this group.
-- Create your first annotation! Let's start with [Lincoln's Second Inaugural Address](https://via.hypothes.is/https://quod.lib.umich.edu/l/lincoln/lincoln8/1:711?rgn=div1;view=fulltext), which is a publicly available web page. By default, your annotation will be **Public**, but if you'd like, you can limit the visibility of your annotation to our **Coffee & Code** group.
+- Create your first annotation! Let's start with a publicly visible web page, [Lincoln's Second Inaugural Address](https://via.hypothes.is/https://quod.lib.umich.edu/l/lincoln/lincoln8/1:711?rgn=div1;view=fulltext). By default, your annotation will be **Public**, but if you'd like, you can limit the visibility of your annotation to our **Coffee & Code** group.
 - Change the visibility of your annotation from either **Public** or **Coffee & Code** to **Only Me**.
 - Create an annotation on an article behind a paywall.
 - Create an annotation of a Google doc that has been "published to the web."
