@@ -30,7 +30,7 @@ Participants will:
     - Private to [Coffee & Code](https://hypothes.is/groups/oBmJ6bz8/coffee-code) group
     - Private to you ('Only me')
 - Create a hypothes.is URL. From the [Hypothes.is](https://web.hypothes.is) home page, click on **Paste a Link**.
-- View your [Hypothes.is](https://web.hypothes.is) profile. What annotations appear on your user profile when you're logged in? When you're logged out?
+- View your [Hypothes.is](https://web.hypothes.is) profile. What annotations appear when you're logged in? When you're logged out?
 
 ### Using Hypothes.is in the Classroom
 
