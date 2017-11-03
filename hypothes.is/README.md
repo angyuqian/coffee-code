@@ -36,7 +36,7 @@ Participants will:
 
 - What ideas do you have for using [Hypothes.is](https://web.hypothes.is) in the classroom?
 - What kinds of sources might you have students annotate?
-- What are the pros and cons of public annotations versus private group annotations? What different learning goals might these different strategies support?
+- What different learning goals might public annotations versus private group annotations support?
 - What logistical challenges do you anticipate when designing assignments around [Hypothes.is](https://web.hypothes.is)?
 
 ## Resources
