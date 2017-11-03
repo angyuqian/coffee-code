@@ -10,8 +10,8 @@ Navigate to this lesson plan at [bit.ly/bcannotates](http://bit.ly/bcannotates).
 
 Participants will:
 
-- practice creating annotations using Hypothes.is
-- articulate specific strategies to use Hypothes.is in the classroom
+- practice creating annotations using [Hypothes.is](https://web.hypothes.is)
+- articulate specific strategies for using [Hypothes.is](https://web.hypothes.is) in the classroom
 
 ## Workshop Outline
 
@@ -19,27 +19,29 @@ Participants will:
 
 - If you don't already have one, [create an account](https://web.hypothes.is/start), and install the add-on for your preferred browser.
 - Join our [Coffee & Code](https://hypothes.is/groups/oBmJ6bz8/coffee-code) group.
-- Create annotations! Note that you can tag annotations.
+- Create annotations!
     - Publicly visible web page: [Lincoln's Second Inaugural Address](https://via.hypothes.is/https://quod.lib.umich.edu/l/lincoln/lincoln8/1:711?rgn=div1;view=fulltext)
     - Article behind a paywall: [Shakespeare's Influence on Lincoln's Second Inaugural Address](http://proxy.bc.edu/login?url=http://go.galegroup.com.proxy.bc.edu/ps/i.do?p=AONE&sw=w&u=mlin_m_bostcoll&v=2.1&it=r&id=GALE%7CA79828718&asid=156611030d64502b1593d34a34a94eb7)
     - Google doc that has been "published to the web"
     - PDF
+- Create annotations with **tags**. What purpose could tags serve in an assignment?
 - Change the visibility of your annotations:
     - Public
     - Private to [Coffee & Code](https://hypothes.is/groups/oBmJ6bz8/coffee-code) group
     - Private to you ('Only me')
-- Create a hypothes.is URL. From the [Hypothes.is](https://web.hypothes.is) home, click on **Paste a Link**.
-- View your hypothes.is profile. When I'm logged in, [my profile](https://hypothes.is/users/ararebit) displays all of my annotations. When I'm not logged in, my profile only displays public annotations.
+- Create a hypothes.is URL. From the [Hypothes.is](https://web.hypothes.is) home page, click on **Paste a Link**.
+- View your [Hypothes.is](https://web.hypothes.is) profile. What annotations appear on your user profile when you're logged in? When you're logged out?
 
 ### Using Hypothes.is in the Classroom
 
-- What ideas do you have for using hypothes.is in the classroom?
+- What ideas do you have for using [Hypothes.is](https://web.hypothes.is) in the classroom?
 - What kinds of sources might you have students annotate?
 - What are the pros and cons of public annotations versus private group annotations? What different learning goals might these different strategies support?
+- What logistical challenges do you anticipate when designing assignments around [Hypothes.is](https://web.hypothes.is)?
 
 ## Resources
 
-- [Hypothes.is](https://web.hypothes.is) home
+- [Hypothes.is](https://web.hypothes.is)
 - [Hypothes.is for Education](https://web.hypothes.is/education)
 - [Hypothes.is Help](https://hypothesis.zendesk.com/hc/en-us)
 
