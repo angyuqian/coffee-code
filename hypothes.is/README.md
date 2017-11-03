@@ -18,11 +18,16 @@ Participants will:
 ### Getting Started with Hypothes.is
 
 - If you don't already have one, [create a hypothes.is account](https://web.hypothes.is/start), and install the add-on for your preferred browser.
-- Join our [Coffee & Code hypothes.is](https://hypothes.is/groups/oBmJ6bz8/coffee-code) group. During this workshop, we'll create annotations within this group.
-- Create your first annotation! Let's start with a publicly visible web page, [Lincoln's Second Inaugural Address](https://via.hypothes.is/https://quod.lib.umich.edu/l/lincoln/lincoln8/1:711?rgn=div1;view=fulltext). By default, your annotation will be **Public**, but if you'd like, you can limit the visibility of your annotation to our **Coffee & Code** group.
-- Change the visibility of your annotation from either **Public** or **Coffee & Code** to **Only Me**.
-- Create an annotation on an article behind a paywall. I'm using [A Providential Theology: Shakespeare's influence on Lincoln's second inaugural address](http://proxy.bc.edu/login?url=http://go.galegroup.com.proxy.bc.edu/ps/i.do?p=AONE&sw=w&u=mlin_m_bostcoll&v=2.1&it=r&id=GALE%7CA79828718&asid=156611030d64502b1593d34a34a94eb7) by James A. Stevenson, which is available in Academic OneFile.
-- Create an annotation of a Google doc that has been "published to the web."
+- Join our [Coffee & Code hypothes.is](https://hypothes.is/groups/oBmJ6bz8/coffee-code) group.
+- Create annotations!
+    - Publicly visible web page: [Lincoln's Second Inaugural Address](https://via.hypothes.is/https://quod.lib.umich.edu/l/lincoln/lincoln8/1:711?rgn=div1;view=fulltext)
+    - Article behind a paywall: [A Providential Theology: Shakespeare's influence on Lincoln's second inaugural address](http://proxy.bc.edu/login?url=http://go.galegroup.com.proxy.bc.edu/ps/i.do?p=AONE&sw=w&u=mlin_m_bostcoll&v=2.1&it=r&id=GALE%7CA79828718&asid=156611030d64502b1593d34a34a94eb7) by James A. Stevenson
+    - Google doc that has been "published to the web"
+    - PDF
+- Change the visibility of your annotations:
+    - Public
+    - Coffee & Code group
+    - Private ('Only me')
 - Create a hypothes.is URL. From the [Hypothes.is home page](https://web.hypothes.is), click on **Paste a Link**, and paste a link to a resource you would like to annotate.
 - View your hypothes.is profile. When I'm logged in, [my hypothes.is profile](https://hypothes.is/users/ararebit) displays all of my annotations: public, private to me, and private to a group. When I'm not logged in, the only annotations that display are those I've chosen to make completely public.
 
