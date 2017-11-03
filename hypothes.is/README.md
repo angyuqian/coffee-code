@@ -21,7 +21,7 @@ Participants will:
 - Join our [Coffee & Code](https://hypothes.is/groups/oBmJ6bz8/coffee-code) group.
 - Create annotations!
     - Publicly visible web page: [Lincoln's Second Inaugural Address](https://via.hypothes.is/https://quod.lib.umich.edu/l/lincoln/lincoln8/1:711?rgn=div1;view=fulltext)
-    - Article behind a paywall: [Shakespeare's Influence on Lincoln's Second Inaugural Address](http://proxy.bc.edu/login?url=http://go.galegroup.com.proxy.bc.edu/ps/i.do?p=AONE&sw=w&u=mlin_m_bostcoll&v=2.1&it=r&id=GALE%7CA79828718&asid=156611030d64502b1593d34a34a94eb7)
+    - Article behind a paywall: [Shakespeare's Influence on Lincoln's Second Inaugural Address](https://via.hypothes.is/http://go.galegroup.com/ps/i.do?p=AONE&sw=w&u=mlin_m_bostcoll&v=2.1&it=r&id=GALE%7CA79828718&asid=156611030d64502b1593d34a34a94eb7)
     - Google doc that has been "published to the web"
     - PDF
 - Create annotations with **tags**. What purpose could tags serve in an assignment?
