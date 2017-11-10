@@ -1,4 +1,4 @@
-# Teaching through Annotation with Hypothes.is
+# Teaching through annotation with Hypothes.is
 
 "An annotator has his scruples, too."
 
@@ -10,14 +10,14 @@ This session explores web annotation as a strategy for teaching and learning. Yo
 
 Navigate to this lesson plan at [bit.ly/bcannotates](http://bit.ly/bcannotates).
 
-## Learning Goals
+## Learning goals
 
 Participants will:
 
 - practice creating annotations using [Hypothes.is](https://web.hypothes.is)
 - articulate specific strategies for using [Hypothes.is](https://web.hypothes.is) in the classroom
 
-## Workshop Outline
+## Workshop outline
 
 ### Practice
 
@@ -51,7 +51,7 @@ Participants will:
 - [Hypothes.is for Education](https://web.hypothes.is/education)
 - [Hypothes.is Help](https://hypothesis.zendesk.com/hc/en-us)
 
-### Pedagogy of Close Reading
+### Pedagogy of close reading
 
 - Richardson, Heather Cox. [Richardson’s Rules of Order, Part IV: How to Read for a College History Course](http://histsociety.blogspot.com/2009/05/richardsons-rules-of-order-part-iv-how.html). The Historical Society (blog), May 28, 2009.
 - Schacht, Paul. [Annotation](https://digitalpedagogy.mla.hcommons.org/keywords/annotation). In *Digital Pedagogy in the Humanities: Concepts, Models, and Experiments*. New York, NY: Modern Language Association, 2016.
