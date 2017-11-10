@@ -4,7 +4,7 @@
 
 —From [The Comedian as the Letter C](https://tspace.library.utoronto.ca/html/1807/4350/poem2012.html) (line 164) by Wallace Stevens
 
-# Introduction
+## Introduction
 
 This session explores web annotation as a strategy for teaching and learning. You will be introduced to [Hypothes.is](https://web.hypothes.is), which allows individuals and groups to publicly or privately discuss any web page—from the popular press to literary works and scholarly journal articles. By creating annotations and participating in interpretive conversations, students develop traditional close reading skills, as well as newer forms of digital and media literacy.
 
