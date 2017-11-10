@@ -19,7 +19,7 @@ Participants will:
 
 ## Workshop Outline
 
-### Getting Started with Hypothes.is
+### Practice
 
 - If you don't already have one, [create an account](https://web.hypothes.is/start), and install the add-on for your preferred browser.
 - Join our [Coffee & Code](https://hypothes.is/groups/oBmJ6bz8/coffee-code) group.
@@ -36,7 +36,7 @@ Participants will:
 - Create a hypothes.is URL. From the [Hypothes.is](https://web.hypothes.is) home page, click on **Paste a Link**.
 - View your [Hypothes.is](https://web.hypothes.is) profile. What annotations appear when you're logged in? When you're logged out?
 
-### Using Hypothes.is in the Classroom
+### Discussion
 
 - What ideas do you have for using [Hypothes.is](https://web.hypothes.is) in the classroom?
 - What kinds of sources might you have students annotate?
@@ -45,9 +45,14 @@ Participants will:
 
 ## Resources
 
+### Using Hypothes.is
+
 - [Hypothes.is](https://web.hypothes.is)
 - [Hypothes.is for Education](https://web.hypothes.is/education)
 - [Hypothes.is Help](https://hypothesis.zendesk.com/hc/en-us)
+
+### Pedagogy of Close Reading
+
 - Richardson, Heather Cox. [Richardson’s Rules of Order, Part IV: How to Read for a College History Course](http://histsociety.blogspot.com/2009/05/richardsons-rules-of-order-part-iv-how.html). The Historical Society (blog), May 28, 2009.
 - Schacht, Paul. [Annotation](https://digitalpedagogy.mla.hcommons.org/keywords/annotation). In *Digital Pedagogy in the Humanities: Concepts, Models, and Experiments*. New York, NY: Modern Language Association, 2016.
 
