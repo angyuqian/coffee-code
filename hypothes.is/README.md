@@ -44,6 +44,8 @@ Participants will:
 - [Hypothes.is](https://web.hypothes.is)
 - [Hypothes.is for Education](https://web.hypothes.is/education)
 - [Hypothes.is Help](https://hypothesis.zendesk.com/hc/en-us)
+- Richardson, Heather Cox. [Richardson’s Rules of Order, Part IV: How to Read for a College History Course](http://histsociety.blogspot.com/2009/05/richardsons-rules-of-order-part-iv-how.html). The Historical Society (blog), May 28, 2009.
+- Schacht, Paul. [Annotation](https://digitalpedagogy.mla.hcommons.org/keywords/annotation). In *Digital Pedagogy in the Humanities: Concepts, Models, and Experiments*. New York, NY: Modern Language Association, 2016.
 
 ## Rights
 
