@@ -2,7 +2,7 @@
 
 This repository contains materials used in the Coffee & Code workshops on digital exhibits in [Omeka](http://www.omeka.net/).
 ## Handouts
-  - [Slides](/Omeka/Omeka-2018/Omeka-slides.pdf)  
+  - [Slides](/Omeka/Omeka-2018/omeka-slides.pdf)  
   - [Dublin Core Elements Description](/Omeka/Omeka-2018/DCelements_description.pdf)
   - [Getting Started with Omeka Guide](/Omeka/Omeka-2018/2018-Omeka.net-Guide.pdf)
 
