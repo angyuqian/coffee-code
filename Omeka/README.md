@@ -4,7 +4,7 @@ This repository contains materials used in the Coffee & Code workshops on digita
 ## Handouts
   - [Slides](/Omeka/Omeka-2018/Omeka-slides.pdf)  
   - [Dublin Core Elements Description](/Omeka/Omeka-2018/DCelements_description.pdf)
-  - [Getting Started in Omeka Guide](/Omeka/Omeka-2018/2018-Omeka.net-Guide.pdf)
+  - [Getting Started with Omeka Guide](/Omeka/Omeka-2018/2018-Omeka.net-Guide.pdf)
 
 ## Exercise Materials
 - [Dublin Core Metadata Template](/Omeka/Omeka-2018/DCmetadata_template.pdf)
