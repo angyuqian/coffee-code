@@ -45,27 +45,32 @@ This repository contains materials used in the Coffee & Code workshop: Collect &
   - Use expression `replace(value, ''insert punctuation here'','''')`
 
 5. Normalizing dates (Transform function):
-  a. If you need to add leading zeros before day
+- If you need to add leading zeros before day
   - Use expression `value.toDate('dd').toString('dd')`
-  b. If you need to add leading zeros before month:
+  
+- If you need to add leading zeros before month:
   - Use expression `value.toDate('MM').toString('MM')`
-  c. To modify format of year with “18” or “19” (other century) prefix
+  
+- To modify format of year with “18” or “19” (other century) prefix
   - Use expression `value.toDate('yyyy').toString('18yy')`
-  d. To convert abbreviations (month) to numeric date
+  
+- To convert abbreviations (month) to numeric date
   - Use expression `value.toDate('MMM-yy').toString('18yy-MM')`
-  e. To join the day, month, year into a single column
+  
+- To join the day, month, year into a single column
   - Transpose cells across column into rows
   - Create one column: date
   - Join multi-valued cells and use a hyphen as separator
   - Move columns in order of year/month/date
-      - Can also use expression `value.toDate('MM-dd-yyyy').toString('yyyy-MM-dd')`
+   - Can also use expression `value.toDate('MM-dd-yyyy').toString('yyyy-MM-dd')`
 
 6. Geocode location data
-  a. Add column by fetching URLs based on on column
-  b. Give your new column a name
-  c. Change throttle delay to 1000 milliseconds 
-  d. Use Expression: `"http://nominatim.openstreetmap.org/search?format=json&email=[YOUR_EMAIL_HERE]&app=google-refine&q=" + escape(value, 'url')`
-  e. Split your coordinates into two columns (latitude/longitude)
+- Add column by fetching URLs based on on column
+- Give your new column a name
+- Change throttle delay to 1000 milliseconds 
+- Use Expression: 
+`"http://nominatim.openstreetmap.org/search?format=json&email=[YOUR_EMAIL_HERE]&app=google-refine&q=" + escape(value, 'url')`
+- Split your coordinates into two columns (latitude/longitude)
   - Use expression: `value.parseJson()[0].lat`
   - Repeat for longitude
 
