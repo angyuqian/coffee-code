@@ -12,7 +12,7 @@ This repository contains materials used in the Coffee & Code workshop: Collect &
 - Do a [visual analysis of the Information Wanted dataset](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/UNJU3N)
 - Consult the [Information Wanted Codebook](/data-prep/info_wanted_codebook.odt)
 
-## Exercise 2 - Data Prep & Cleaning (15-20 minutes)
+## Exercise 2 - Data Prep & Cleaning (~20 minutes)
 
 - Launch OpenRefine from your applications and a browser will open
 - Download and unzip [datasets](/data-prep/data) to your machine
