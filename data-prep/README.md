@@ -86,7 +86,7 @@ Visit [OpenRefine Recipes](https://github.com/OpenRefine/OpenRefine/wiki/Recipes
 
 ## Suggested Readings
 
-- Owens, [Defining Data for Humanists: Text, Artifact, Information or Evidence?](http://www.trevorowens.org/2011/12/defining-data-for-humanists-text-artifact-information-or-evidence/)
+- Owens, [Defining Data for Humanists: Text, Artifact, Information or Evidence?](http://journalofdigitalhumanities.org/1-1/defining-data-for-humanists-by-trevor-owens/)
 - Schöch, [JDH: Big? Smart? Clean? Messy? Data in the Humanities](http://journalofdigitalhumanities.org/2-3/big-smart-clean-messy-data-in-the-humanities)
 - Rawson and Muñoz, [Against Cleaning](http://curatingmenus.org/articles/against-cleaning)
 - The Santa Barbara Statement on [Collections as Data](https://collectionsasdata.github.io/statement/)
