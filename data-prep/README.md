@@ -32,23 +32,23 @@ This repository contains materials used in the Coffee & Code workshop: Collect &
 1. Trim all leading/trailing whitespace 
   - Use expression: `value.trim()`
 
-2. Remove all punctuation from text in a column:
+2. Remove all punctuation from text in a column
   - Go to Edit cells —> Transform
   - Use expression: `value.replace(/\p{Punct}/,'')`
 
-3. Remove all punctuation at the end of a subject string:
+3. Remove all punctuation at the end of a subject string
   - Go to Edit cells —> Split multi-valued cells —> Split by separator
   - Join multi-valued cells with a different separator
  
-4. Find and replace a specific character:
+4. Find and replace a specific character
   - Go to Edit cells —> Transform
   - Use expression `replace(value, ''insert punctuation here'','''')`
 
-5. Normalizing dates (Transform function):
+5. Normalizing dates (Transform function)
 - If you need to add leading zeros before day
   - Use expression `value.toDate('dd').toString('dd')`
   
-- If you need to add leading zeros before month:
+- If you need to add leading zeros before month
   - Use expression `value.toDate('MM').toString('MM')`
   
 - To modify format of year with “18” or “19” (other century) prefix
