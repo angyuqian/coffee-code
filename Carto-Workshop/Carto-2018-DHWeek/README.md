@@ -12,7 +12,7 @@ This workshop will introduce participants to visualizing spatial data, creating 
 
 3. Geocoding Location Data with OpenRefine
     - Launch OpenRefine from your applications and a browser will open
-    - Download and unzip [datasets](/sample_crashdata_cambridge.csv) to your machine
+    - Download and unzip [datasets](insert link) to your machine
     - Upload sample-info-wanted-dataset.csv to OpenRefine
       - Add column by fetching URLs based on on column
       - Give your new column a name
@@ -35,6 +35,7 @@ This workshop will introduce participants to visualizing spatial data, creating 
    - Where to find georeferenced maps
    - Using georeferencing tools
    - Maps that have been georeferenced can be pulled in to software, such as Carto, by providing the URL from the basemap provider, such as a Web Mapping Service (WMS) or Web Mapping Tile Service (WMTS). The list below includes ready-to use basemaps as well as georeferencing tools.  
+   
      - [David Rumsey Map Collection & Georeferencer](https://www.davidrumsey.com/view/georeferencer)
      - [Map Warper](http://mapwarper.net/)
      - [MapTiler](https://www.maptiler.com/how-to/georeferencing/)
