@@ -6,41 +6,41 @@ This workshop will introduce participants to visualizing spatial data, creating 
 
 ## Workshop Overview
 1. Why do we want to visualize spatial data?
-  - GIS terms
+    - GIS terms
 
 2. Intro to the dataset - [Cambridge, MA Crash Data](/Carto-Workshop/Carto-2018-DHWeek/carto_sample_data.zip) 
 
 3. Geocoding Location Data with OpenRefine
-  - Launch OpenRefine from your applications and a browser will open
-  - Download and unzip [datasets](/sample_crashdata_cambridge.csv) to your machine
-  - Upload sample-info-wanted-dataset.csv to OpenRefine
-    - Add column by fetching URLs based on on column
-    - Give your new column a name
-    - Change throttle delay to 1000 milliseconds 
-    - Use Expression: 
+    - Launch OpenRefine from your applications and a browser will open
+    - Download and unzip [datasets](/sample_crashdata_cambridge.csv) to your machine
+    - Upload sample-info-wanted-dataset.csv to OpenRefine
+      - Add column by fetching URLs based on on column
+      - Give your new column a name
+      - Change throttle delay to 1000 milliseconds 
+      - Use Expression: 
 `"http://nominatim.openstreetmap.org/search?format=json&email=[YOUR_EMAIL_HERE]&app=google-refine&q=" + escape(value, 'url')`
-  - Split your coordinates into two columns (latitude/longitude)
-    - Use expression: `value.parseJson()[0].lat`
-    - Repeat for longitude (.lon)
+    - Split your coordinates into two columns (latitude/longitude)
+      - Use expression: `value.parseJson()[0].lat`
+      - Repeat for longitude (.lon)
 
 4. Intro to the Carto dashboard and platform
-  - Points layer
-  - Polygon layer
-  - Widgets and analysis tools
-  - Export and share data
-  - Publish and embed data
-  - Custom CSS and SQL
-
+   - Points layer
+   - Polygon layer
+   - Widgets and analysis tools
+   - Export and share data
+   - Publish and embed data
+   - Custom CSS and SQL
+  
 5. How to add your own basemap
-  - Where to find georeferenced maps
-  - Using georeferencing tools
-  - Maps that have been georeferenced can be pulled in to software, such as Carto, by providing the URL from the basemap provider, such as a Web Mapping Service (WMS) or Web Mapping Tile Service (WMTS). The list below includes ready-to use basemaps as well as georeferencing tools.  
-    - [David Rumsey Map Collection & Georeferencer](https://www.davidrumsey.com/view/georeferencer)
-    - [Map Warper](http://mapwarper.net/)
-    - [MapTiler](https://www.maptiler.com/how-to/georeferencing/)
-    - [NYPL Map Warper](http://maps.nypl.org/warper/)
-    - [Spatineo Directory](http://directory.spatineo.com/)
-    - [USGS Historical Topographic Map Collection](https://catalog.data.gov/dataset/usgs-historical-topographic-map-collection)
+   - Where to find georeferenced maps
+   - Using georeferencing tools
+   - Maps that have been georeferenced can be pulled in to software, such as Carto, by providing the URL from the basemap provider, such as a Web Mapping Service (WMS) or Web Mapping Tile Service (WMTS). The list below includes ready-to use basemaps as well as georeferencing tools.  
+     - [David Rumsey Map Collection & Georeferencer](https://www.davidrumsey.com/view/georeferencer)
+     - [Map Warper](http://mapwarper.net/)
+     - [MapTiler](https://www.maptiler.com/how-to/georeferencing/)
+     - [NYPL Map Warper](http://maps.nypl.org/warper/)
+     - [Spatineo Directory](http://directory.spatineo.com/)
+     - [USGS Historical Topographic Map Collection](https://catalog.data.gov/dataset/usgs-historical-topographic-map-collection)
 
 
 ## General Map and GIS Data Resources
