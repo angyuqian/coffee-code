@@ -6,7 +6,7 @@ This workshop will introduce participants to visualizing spatial data, creating 
 
 ## Geocoding Location Data with OpenRefine
 - Launch OpenRefine from your applications and a browser will open
-- Download and unzip [datasets](Carto-Workshop/Carto-2018-DHWeek/carto_sample_data.zip) to your machine
+- Download and unzip [datasets](/sample_crashdata_cambridge.csv) to your machine
 - Upload sample-info-wanted-dataset.csv to OpenRefine
 
 - Add column by fetching URLs based on on column
@@ -18,9 +18,15 @@ This workshop will introduce participants to visualizing spatial data, creating 
   - Use expression: `value.parseJson()[0].lat`
   - Repeat for longitude
 
-## Georeferencing Maps
+## Finding Georeferenced Maps & Georeferencing Tools
+Maps that have been georeferenced can be pulled in to software, such as Carto, by providing the URL from the basemap provider, such as a Web Mapping Service (WMS) or Web Mapping Tile Service (WMTS). The list below includes ready-to use basemaps as well as georeferencing tools.  
 
-
+- [David Rumsey Map Collection & Georeferencer](https://www.davidrumsey.com/view/georeferencer)
+- [Map Warper](http://mapwarper.net/)
+- [MapTiler](https://www.maptiler.com/how-to/georeferencing/)
+- [NYPL Map Warper](http://maps.nypl.org/warper/)
+- [Spatineo Directory](http://directory.spatineo.com/)
+- [USGS Historical Topographic Map Collection](https://catalog.data.gov/dataset/usgs-historical-topographic-map-collection)
 
 
 ## General Map and GIS Data Resources
@@ -39,7 +45,6 @@ This workshop will introduce participants to visualizing spatial data, creating 
 - [Digital Atlas of Roman and Medieval Civilizations (Harvard University)](https://darmc.harvard.edu/)
 - [Digital Map Collection (University of California, Berkeley)](http://www.lib.berkeley.edu/EART/browse.html)
 - [Discovery and Exploration (Library of Congress)](http://lcweb2.loc.gov/ammem/gmdhtml/dsxphome.html)
-- [Historic USGS Maps of New England and New York (University of New Hampshire)](http://docs.unh.edu/nhtopos/nhtopos.htm) 
 - [Map History/History of Cartography (Website maintained by former map librarian at the British Library)](http://www.maphistory.info/)
 - [Old Maps Online (University of Portsmouth)](http://www.oldmapsonline.org/#bbox=-71.562195,42.159332,-70.562439,42.55915&q=&datefrom=1000&dateto=2010)
 - [Perry-Castaneda Library Map Collection (University of Texas-Austin)](http://www.lib.utexas.edu/maps/historical/index.html)
