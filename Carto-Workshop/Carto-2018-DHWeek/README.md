@@ -4,7 +4,19 @@ This [workshop](http://libcal.bc.edu/event/3914095?hs=a) is offered as part of [
 ## Learning Goals
 This workshop will introduce participants to visualizing spatial data, creating maps with points and polygons, and performing basic data analysis with [Carto](https://carto.com/). A brief overview of geocoding point data in [OpenRefine](http://openrefine.org/) will be provided, as well as, examples and resources for georeferencing maps and adding basemaps.
 
-## Geocoding Data with OpenRefine
+## Geocoding Location Data with OpenRefine
+- Launch OpenRefine from your applications and a browser will open
+- Download and unzip [datasets](Carto-Workshop/Carto-2018-DHWeek/carto_sample_data.zip) to your machine
+- Upload sample-info-wanted-dataset.csv to OpenRefine
+
+- Add column by fetching URLs based on on column
+- Give your new column a name
+- Change throttle delay to 1000 milliseconds 
+- Use Expression: 
+`"http://nominatim.openstreetmap.org/search?format=json&email=[YOUR_EMAIL_HERE]&app=google-refine&q=" + escape(value, 'url')`
+- Split your coordinates into two columns (latitude/longitude)
+  - Use expression: `value.parseJson()[0].lat`
+  - Repeat for longitude
 
 ## Georeferencing Maps
 
@@ -19,10 +31,10 @@ This workshop will introduce participants to visualizing spatial data, creating 
 - [British Library Maps](https://www.bl.uk/subjects/maps) 
 - [David Rumsey map collection](https://www.davidrumsey.com/)
 - [Europeana map colection](https://www.europeana.eu/portal/en/collections/maps)
-- [DPLA (+ refine your search by Subject Search >  Maps)](https://dp.la/) 
+- [DPLA](https://dp.la/) (refine your search by Subject Search >  Maps)
 - [Ancient Places via Pleiades (downloads available)](https://pleiades.stoa.org/downloads)
 - [Social Explorer](http://www.socialexplorer.com/)
-- [Hathi Trust (Advanced search> Format: “Map”)](https://babel.hathitrust.org/cgi/ls?a=page;page=advanced) 
+- [Hathi Trust](https://babel.hathitrust.org/cgi/ls?a=page;page=advanced) (Advanced search> Format: “Map”) 
 - [Classical Atlas Project (University of North Carolina)](http://awmc.unc.edu/wordpress/free-maps/)
 - [Digital Atlas of Roman and Medieval Civilizations (Harvard University)](https://darmc.harvard.edu/)
 - [Digital Map Collection (University of California, Berkeley)](http://www.lib.berkeley.edu/EART/browse.html)
