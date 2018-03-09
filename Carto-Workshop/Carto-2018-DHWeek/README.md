@@ -12,8 +12,8 @@ This workshop will introduce participants to visualizing spatial data, creating 
 
 3. Geocoding Location Data with OpenRefine
     - Launch OpenRefine from your applications and a browser will open
-    - Download and unzip [datasets](insert link) to your machine
-    - Upload sample-info-wanted-dataset.csv to OpenRefine
+    - Download and unzip [sample dataset](/Carto-Workshop/Carto-2018-DHWeek/crashdatasample.zip) to your machine
+    - Upload crashdatasample.csv to OpenRefine
       - Add column by fetching URLs based on on column
       - Give your new column a name
       - Change throttle delay to 1000 milliseconds 
