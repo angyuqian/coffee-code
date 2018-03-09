@@ -21,7 +21,7 @@ This workshop will introduce participants to visualizing spatial data, creating 
 `"http://nominatim.openstreetmap.org/search?format=json&email=[YOUR_EMAIL_HERE]&app=google-refine&q=" + escape(value, 'url')`
     - Split your coordinates into two columns (latitude/longitude)
       - Use expression: `value.parseJson()[0].lat`
-      - Repeat for longitude (.lon)
+      - Repeat for longitude
 
 4. Intro to the Carto dashboard and platform
    - Points layer
