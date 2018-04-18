@@ -9,7 +9,7 @@ This repository contains materials used in the Coffee & Code workshops on digita
 
 ## Exercise materials
 - [Dublin Core Metadata Template](/Omeka/Omeka-2018/DCmetadata_template.pdf)
-- [Item Descriptions] (/Omeka/Omeka-2018/item-descriptions.pdf)
+- [Item Descriptions](/Omeka/Omeka-2018/item-descriptions.pdf)
  
 ## Additional Resources
 
