@@ -1,6 +1,6 @@
 # How to Stay Safe and Secure Online
 
-Feeling freaked out by all the cyber breaches lately? Want to plan an activist movement but want to stay safe? Or do you simply want to use online dating services without getting stalked? Join us in this workshop to learn about digital privacy. We’ll go over how to use tools to protect yourself online, as well as what to do if you’ve been hacked, harassed, or otherwise victimized online.
+Feeling freaked out by all the cyber breaches lately? Want to plan an activist movement but want to stay safe? Or do you simply want to use online dating services without getting stalked? Join us in this workshop to learn about digital privacy. We’ll go over how to use tools to protect yourself online, as well as what to do if you’ve been hacked, harassed, or otherwise victimized on the web.
 
 ## Intro
 
