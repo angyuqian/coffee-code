@@ -27,13 +27,13 @@ What does Tinder do with your data?
 Text like no one's watching with Signal  
 * https://www.signal.org/download  
 
-Nonconsensual intimate images ("revenge porn")  
+Nonconsensual intimate images ("revenge porn")
 * https://www.cybercivilrights.org/online-removal  
 
-Domestic violence  
+Domestic violence
 * https://nnedv.org/content/safety-net/  
 
-Cyberstalking resources  
+Cyberstalking resources
 * https://www.ic3.gov  
 
 ### Scenario 4. Planning an activist movement :fist:
