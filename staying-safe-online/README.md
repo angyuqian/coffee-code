@@ -24,13 +24,13 @@ Why single sign-ons (SSOs) are actually terrible
 What does Tinder do with your data? 
 * https://account.gotinder.com/data  
 Text like no one's watching with Signal  
-* https://www.signal.org/download
-Nonconsensual intimate images ("revenge porn")
-* https://www.cybercivilrights.org/online-removal
-Domestic violence 
-* https://nnedv.org/content/safety-net/
+* https://www.signal.org/download  
+Nonconsensual intimate images ("revenge porn")  
+* https://www.cybercivilrights.org/online-removal  
+Domestic violence  
+* https://nnedv.org/content/safety-net/  
 Cyberstalking resources  
-* https://www.ic3.gov
+* https://www.ic3.gov  
 
 ### Scenario 4. Planning an activist movement :fist:
 
