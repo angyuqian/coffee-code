@@ -14,18 +14,18 @@ First things first, what's your privacy personality? Take this [5-minute quiz](h
 
 ### Scenario 2. You've been hacked! :scream:
 
-Phishing: it's not just about Nigerian princes
-How to manage password fatigue
-Why two-factor authentication matters
-Why single sign-ons (SSOs) are actually terrible
+Phishing: it's not just about Nigerian princes  
+How to manage password fatigue  
+Why two-factor authentication matters  
+Why single sign-ons (SSOs) are actually terrible  
 
 ### Scenario 3. Online dating :love_letter:
 
-What does Tinder do with your data? https://account.gotinder.com/data
-Text like no one's watching with Signal
-Domestic violence and location tracking
-Nonconsensual intimate images ("revenge porn")
-Cyberstalking resources
+What does Tinder do with your data? https://account.gotinder.com/data  
+Text like no one's watching with Signal  
+Domestic violence and location tracking  
+Nonconsensual intimate images ("revenge porn")  
+Cyberstalking resources  
 
 ### Scenario 4. Planning an activist movement :fist:
 
