@@ -20,7 +20,7 @@ This workshop will introduce participants to visualizing spatial data, creating 
       - Give your new column a name
       - Change throttle delay to 1000 milliseconds 
       - Use Expression: 
-`“https://api.opencagedata.com/geocode/v1/json?key=yourAPI&email=yourEmail&app=google-refine&q=" + escape(value, 'url')`
+`'https://api.opencagedata.com/geocode/v1/json?key=yourAPI&email=yourEmail&app=google-refine&q=' + escape(value, 'url')`
     - Extract the latitude/longitude
       - Select Edit Column ==> Add column based on this (Json) column
       - Use expression `with(value.parseJson().results[0].geometry, pair, pair.lat +", " + pair.lng)`
