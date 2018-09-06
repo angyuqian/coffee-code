@@ -22,7 +22,7 @@ This workshop will introduce participants to visualizing spatial data, creating 
       - Use Expression: 
 `'https://api.opencagedata.com/geocode/v1/json?key=yourAPI&email=yourEmail&app=google-refine&q=' + escape(value, 'url')`
     - Extract the latitude/longitude
-      - Select Edit Column ==> Add column based on this (Json) column
+      - Select Edit Column ==> Add column based on this (JSON) column
       - Use expression `with(value.parseJson().results[0].geometry, pair, pair.lat +", " + pair.lng)`
 
 4. Intro to the Carto dashboard and platform
