@@ -11,17 +11,19 @@ This workshop will introduce participants to visualizing spatial data, creating 
 2. Intro to the dataset - [Cambridge, MA Crash Data](/Carto-Workshop/Carto-2018-DHWeek/carto_sample_data.zip) 
 
 3. Geocoding Location Data with OpenRefine
+    - Navigate to [OpenCage Geocoder API](https://opencagedata.com/) and register for an API.
     - Launch OpenRefine from your applications and a browser will open
     - Download and unzip [sample dataset](/Carto-Workshop/Carto-2018-DHWeek/crashdatasample.zip) to your machine
     - Upload crashdatasample.csv to OpenRefine
-      - Add column by fetching URLs based on on column
+    - In OpenRefine
+      - Add column by fetching URLs based on on (address) column
       - Give your new column a name
       - Change throttle delay to 1000 milliseconds 
       - Use Expression: 
-`"http://nominatim.openstreetmap.org/search?format=json&email=[YOUR_EMAIL_HERE]&app=google-refine&q=" + escape(value, 'url')`
-    - Split your coordinates into two columns (latitude/longitude)
-      - Use expression: `value.parseJson()[0].lat`
-      - Repeat for longitude
+`“https://api.opencagedata.com/geocode/v1/json?key=yourAPI&email=yourEmail&app=google-refine&q=\" + escape(value, 'url')`
+    - Extract the latitude/longitude
+      - Select Edit Column ==> Add column based on this (Json) column
+      - Use expression `with(value.parseJson().results[0].geometry, pair, pair.lat +", " + pair.lng)`
 
 4. Intro to the Carto dashboard and platform
    - Points layer
