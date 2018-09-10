@@ -21,8 +21,7 @@ Why single sign-ons (SSOs) are actually terrible
 
 ### Scenario 3. Online dating :love_letter:
 
-What does Tinder do with your data?  
-* https://account.gotinder.com/data  
+[Download] (https://account.gotinder.com/data) your Tinder data  
 
 Text like no one's watching with Signal  
 * https://www.signal.org/download  
