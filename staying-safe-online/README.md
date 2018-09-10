@@ -12,6 +12,10 @@ First things first, what's your privacy personality? Take this [5-minute quiz](h
 
 ### Scenario 1. Ad tracking, or big business is watching you :eyes:
 
+Describe a situation in which tracking is awesome because it creates a personalized online experience.
+
+On the other hand, describe a situation in which tracking is awful.
+
 ### Scenario 2. You've been hacked! :scream:
 
 Phishing: it's not just about Nigerian princes  
