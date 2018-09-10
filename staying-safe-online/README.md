@@ -21,18 +21,21 @@ Why single sign-ons (SSOs) are actually terrible
 
 ### Scenario 3. Online dating :love_letter:
 
-[Download](https://account.gotinder.com/data) your Tinder data  
-Text like no one's watching with [Signal](https://www.signal.org/download)  
-[Combat](https://www.cybercivilrights.org) nonconsensual intimate images ("revenge porn")  
-[Fight](https://nnedv.org/content/safety-net) online domestic violence  
-If you're in danger, [contact](https://www.bc.edu/offices/bcpd/contact-us.html) your local law enforcement agency  
-You can also [file](https://www.ic3.gov) an Internet Complaint Report if you're being stalked  
-If you are reluctant to contact law enforcement, [reach](https://www.womenslaw.org/) [out](https://www.cybercivilrights.org/ccri-crisis-helpline/) to other organizations for confidential advice 
-
+* [Download](https://account.gotinder.com/data) your Tinder data.
+* Text like no one's watching with [Signal](https://www.signal.org/download).
+* [Combat](https://www.cybercivilrights.org) nonconsensual intimate images ("revenge porn").
+* [Fight](https://nnedv.org/content/safety-net) online domestic violence.
+* If you're in danger, [contact](https://www.bc.edu/offices/bcpd/contact-us.html) your local law enforcement agency.
+* You can also [file](https://www.ic3.gov) an Internet Complaint Report if you're being stalked.
+* If you are reluctant to contact law enforcement, [reach](https://www.womenslaw.org/) [out](https://www.cybercivilrights.org/ccri-crisis-helpline/) to other organizations for confidential advice.
 
 ### Scenario 4. Planning an activist movement :fist:
 
 ## Developing Your Privacy Plan
+
+1. When have you experienced a feeling of "ick" or "oh, no" while online?
+2. What balance would you like to strike between convenience versus privacy and security?
+3. Based on what you've learned today, what tools or strategies would you like to adopt in order to combat the "ick" feeling?
 
 ## Implementing Your Privacy Plan
 
