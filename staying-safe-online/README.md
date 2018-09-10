@@ -23,18 +23,16 @@ Why single sign-ons (SSOs) are actually terrible
 
 [Download](https://account.gotinder.com/data) your Tinder data  
 
-Text like no one's watching with Signal  
-* https://www.signal.org/download  
+Text like no one's watching with [Signal](https://www.signal.org/download)  
 
-How to combat nonconsensual intimate images ("revenge porn")
-* https://www.cybercivilrights.org  
+[Combat](https://www.cybercivilrights.org) nonconsensual intimate images ("revenge porn")
 
-Domestic violence is a thing online, too
-* https://nnedv.org/content/safety-net  
+Domestic violence is a thing [online](https://nnedv.org/content/safety-net), too   
 
-Cyberstalking: law enforcement is on your side
-* https://www.ic3.gov  
-* https://www.womenslaw.org
+Contact your local law enforcement agency and [file](https://www.ic3.gov) an Internet Complaint Report if you're being stalked online 
+
+If you are reluctant to contact law enforcement, reach out to other organizations to seek confidential advice. 
+
 
 ### Scenario 4. Planning an activist movement :fist:
 
