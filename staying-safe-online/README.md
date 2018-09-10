@@ -21,17 +21,12 @@ Why single sign-ons (SSOs) are actually terrible
 
 ### Scenario 3. Online dating :love_letter:
 
-[Download](https://account.gotinder.com/data) your Tinder data  
-
-Text like no one's watching with [Signal](https://www.signal.org/download)  
-
+[Download](https://account.gotinder.com/data) your Tinder data
+Text like no one's watching with [Signal](https://www.signal.org/download)
 [Combat](https://www.cybercivilrights.org) nonconsensual intimate images ("revenge porn")
-
-Domestic violence is a thing [online](https://nnedv.org/content/safety-net), too   
-
-Contact your local law enforcement agency and [file](https://www.ic3.gov) an Internet Complaint Report if you're being stalked online 
-
-If you are reluctant to contact law enforcement, reach out to other organizations to seek confidential advice. 
+[Fight](https://nnedv.org/content/safety-net) online domestic violence
+Contact your local law enforcement agency and [file](https://www.ic3.gov) an Internet Complaint Report if you're being stalked
+If you are reluctant to contact law enforcement, reach out to other organizations for confidential advice 
 
 
 ### Scenario 4. Planning an activist movement :fist:
