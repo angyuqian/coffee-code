@@ -26,7 +26,7 @@ Text like no one's watching with [Signal](https://www.signal.org/download)
 [Combat](https://www.cybercivilrights.org) nonconsensual intimate images ("revenge porn")  
 [Fight](https://nnedv.org/content/safety-net) online domestic violence  
 Contact your local law enforcement agency and [file](https://www.ic3.gov) an Internet Complaint Report if you're being stalked  
-If you are reluctant to contact law enforcement, reach out to other organizations for confidential advice 
+If you are reluctant to contact law enforcement, [reach](https://www.womenslaw.org/) [out](https://www.cybercivilrights.org/ccri-crisis-helpline/) to other organizations for confidential advice 
 
 
 ### Scenario 4. Planning an activist movement :fist:
