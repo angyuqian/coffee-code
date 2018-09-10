@@ -21,7 +21,7 @@ Why single sign-ons (SSOs) are actually terrible
 
 ### Scenario 3. Online dating :love_letter:
 
-[Download] (https://account.gotinder.com/data) your Tinder data  
+[Download](https://account.gotinder.com/data) your Tinder data  
 
 Text like no one's watching with Signal  
 * https://www.signal.org/download  
