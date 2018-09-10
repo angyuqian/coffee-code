@@ -40,6 +40,10 @@ Two strategies:
 
 ### Scenario 4. Planning an activist movement :fist:
 
+1. Location tracking
+2. Secure messaging
+3. Touch ID versus passcode
+
 ## Developing Your Privacy Plan
 
 1. When have you experienced a feeling of "ick" or "oh, no" while online?
