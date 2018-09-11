@@ -64,8 +64,8 @@ We're devoting the last 30 minutes of our time together to actually downloading 
 * Federal Bureau of Investigation. "Internet Crime Complaint Center (IC3)." Accessed September 12, 2018. https://www.ic3.gov/.  
 * FightCyberstalking.org. "Fight Cyberstalking Toolkit." Last modified October 4, 2016. https://www.fightcyberstalking.org/fight-cyberstalking-toolkit/.   
 * Kelley, Noah. "A DIY Guide to Feminist Cybersecurity." Accessed September 12, 2018. https://hackblossom.org/cybersecurity/.  
-* National Network to End Domestic Violence. "Plain-Language Legal Information for Victims of Abuse," WomensLaw.org. Accessed September 12, 2018. https://womenslaw.org. 
-* National Network to End Domestic Violence. "Safety Net: the National Safe & Strategic Technology Project," Safety Net. Accessed September 12, 2018. https://nnedv.org/content/safety-net/.  
+* National Network to End Domestic Violence. "Plain-Language Legal Information for Victims of Abuse." WomensLaw.org. Accessed September 12, 2018. https://womenslaw.org. 
+* National Network to End Domestic Violence. "Safety Net: the National Safe & Strategic Technology Project." Safety Net. Accessed September 12, 2018. https://nnedv.org/content/safety-net/.  
 * Pew Research Center. <i>Online Harassment 2017</i>. July 2017. Available at: http://www.pewinternet.org/2017/07/11/online-harassment-2017/.  
 
 ---
