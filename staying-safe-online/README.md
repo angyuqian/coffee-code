@@ -58,11 +58,12 @@ We're devoting the last 30 minutes of our time together to actually downloading 
 
 Blue, Violet. <i>The Smart Girl's Guide to Privacy</i>. San Francisco: No Starch Press, 2015.  
 Citron, Danielle. <i>Hate Crimes in Cyberspace</i>. Cambridge: Harvard University Press, 2014.  
-Cyber Civil Rights Initiative. "Crisis Helpline," https://www.cybercivilrights.org/ccri-crisis-helpline/.  
-Cyber Civil Rights Initiative. "Online Removal Guide," https://www.cybercivilrights.org/online-removal/.  
-Kelley, Noah. "DIY Feminist Cybersecurity," https://hackblossom.org/cybersecurity/.  
-"Massachusetts Man Arrested and Charged with Cyberstalking Former Roommate." https://www.justice.gov/opa/pr/massachusetts-man-arrested-and-charged-cyberstalking-former-roommate
-Pew Research Center. </i>Online Harassment 2017</i>. http://www.pewinternet.org/2017/07/11/online-harassment-2017/.  
+Cyber Civil Rights Initiative. "Crisis Helpline." Accessed September 12, 2018. https://www.cybercivilrights.org/ccri-crisis-helpline/.  
+Cyber Civil Rights Initiative. "Online Removal Guide." Accessed September 12, 2018. https://www.cybercivilrights.org/online-removal/.   FightCyberstalking.org. "Fight Cyberstalking Toolkit." Last modified October 4, 2016. https://www.fightcyberstalking.org/fight-cyberstalking-toolkit/.   
+Kelley, Noah. "DIY Feminist Cybersecurity." https://hackblossom.org/cybersecurity/.  
+Department of Justice. "Massachusetts Man Arrested and Charged with Cyberstalking Former Roommate." Last modified October 7, 2017. https://www.justice.gov/opa/pr/massachusetts-man-arrested-and-charged-cyberstalking-former-roommate.  
+Pew Research Center. </i>Online Harassment 2017</i>. July 2017. http://www.pewinternet.org/2017/07/11/online-harassment-2017/.  
+
 
 
 ---
