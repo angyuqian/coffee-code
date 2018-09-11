@@ -56,10 +56,13 @@ We're devoting the last 30 minutes of our time together to actually downloading 
 
 ## Resources  
 
-Blue, Violet. <i>The Smart Girl's Guide to Privacy</i>.
+Blue, Violet. <i>The Smart Girl's Guide to Privacy</i>. San Francisco: No Starch Press, 2015.  
+Citron, Danielle. <i>Hate Crimes in Cyberspace</i>. Cambridge: Harvard University Press, 2014.  
 Cyber Civil Rights Initiative. "Crisis Helpline," https://www.cybercivilrights.org/ccri-crisis-helpline/.  
 Cyber Civil Rights Initiative. "Online Removal Guide," https://www.cybercivilrights.org/online-removal/.  
-Kelley, Noah. "DIY Feminist Cybersecurity," https://hackblossom.org/cybersecurity/. 
+Kelley, Noah. "DIY Feminist Cybersecurity," https://hackblossom.org/cybersecurity/.  
+"Massachusetts Man Arrested and Charged with Cyberstalking Former Roommate." https://www.justice.gov/opa/pr/massachusetts-man-arrested-and-charged-cyberstalking-former-roommate
+Pew Research Center. </i>Online Harassment 2017</i>. http://www.pewinternet.org/2017/07/11/online-harassment-2017/.  
 
 
 ---
