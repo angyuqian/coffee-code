@@ -61,7 +61,7 @@ We're devoting the last 30 minutes of our time together to actually downloading 
 * Cyber Civil Rights Initiative. "Crisis Helpline." Accessed September 12, 2018. https://www.cybercivilrights.org/ccri-crisis-helpline/.  
 * Cyber Civil Rights Initiative. "Online Removal Guide." Accessed September 12, 2018. https://www.cybercivilrights.org/online-removal/.   
 * Department of Justice. "Massachusetts Man Arrested and Charged with Cyberstalking Former Roommate." Last modified October 7, 2017. https://www.justice.gov/opa/pr/massachusetts-man-arrested-and-charged-cyberstalking-former-roommate.  
-* Dubrofsky, Rachel E. and Shoshana Amielle Magnet, eds. <i>Feminist Surveillance Studies</i>. Durahm: Duke University Press, 2015.  
+* Dubrofsky, Rachel E. and Shoshana Amielle Magnet, eds. <i>Feminist Surveillance Studies</i>. Durham: Duke University Press, 2015.  
 * Federal Bureau of Investigation. "Internet Crime Complaint Center (IC3)." Accessed September 12, 2018. https://www.ic3.gov/.  
 * FightCyberstalking.org. "Fight Cyberstalking Toolkit." Last modified October 4, 2016. https://www.fightcyberstalking.org/fight-cyberstalking-toolkit/.   
 * Kelley, Noah. "A DIY Guide to Feminist Cybersecurity." Accessed September 12, 2018. https://hackblossom.org/cybersecurity/.  
