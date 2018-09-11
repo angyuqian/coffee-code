@@ -63,7 +63,8 @@ We're devoting the last 30 minutes of our time together to actually downloading 
 * Department of Justice. "Massachusetts Man Arrested and Charged with Cyberstalking Former Roommate." Last modified October 7, 2017. https://www.justice.gov/opa/pr/massachusetts-man-arrested-and-charged-cyberstalking-former-roommate.  
 * FightCyberstalking.org. "Fight Cyberstalking Toolkit." Last modified October 4, 2016. https://www.fightcyberstalking.org/fight-cyberstalking-toolkit/.   
 * Kelley, Noah. "A DIY Guide to Feminist Cybersecurity." Accessed September 12, 2018. https://hackblossom.org/cybersecurity/.  
-* Pew Research Center. <i>Online Harassment 2017</i>. July 2017. http://www.pewinternet.org/2017/07/11/online-harassment-2017/.  
+* National Network to End Domestic Violence. "Plain-Language Legal Information for Victims of Abuse," WomensLaw.org. 2018. https://womenslaw.org. 
+* Pew Research Center. <i>Online Harassment 2017</i>. July 2017. https://www.pewinternet.org/2017/07/11/online-harassment-2017/.  
 
 ---
 
