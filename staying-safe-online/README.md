@@ -68,6 +68,7 @@ We're devoting the last 30 minutes of our time together to actually downloading 
 * National Network to End Domestic Violence. "Plain-Language Legal Information for Victims of Abuse." WomensLaw.org. Accessed September 12, 2018. https://womenslaw.org. 
 * National Network to End Domestic Violence. "Safety Net: the National Safe & Strategic Technology Project." Safety Net. Accessed September 12, 2018. https://nnedv.org/content/safety-net/.  
 * Pew Research Center. <i>Online Harassment 2017</i>. July 2017. http://www.pewinternet.org/2017/07/11/online-harassment-2017/.  
+* U.S. Congress, House, <i>Ending Nonconsensual Online User Graphic Harassment Act of 2017</i>, HR 4472, 115th Congress, 1st sess., https://www.govinfo.gov/app/details/BILLS-115hr4472ih.
 
 ---
 
