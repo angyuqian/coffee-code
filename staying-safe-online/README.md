@@ -54,6 +54,14 @@ Two strategies:
 
 We're devoting the last 30 minutes of our time together to actually downloading and getting started with the tools that will be most helpful for you based on the priorities you identified when developing your privacy plan. Chelcie and Paige will be on hand to help if you have any questions.
 
+## Resources  
+
+Blue, Violet. <i>The Smart Girl's Guide to Privacy</i>.
+Cyber Civil Rights Initiative. "Crisis Helpline," https://www.cybercivilrights.org/ccri-crisis-helpline/.  
+Cyber Civil Rights Initiative. "Online Removal Guide," https://www.cybercivilrights.org/online-removal/.  
+Kelley, Noah. "DIY Feminist Cybersecurity," https://hackblossom.org/cybersecurity/. 
+
+
 ---
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />Workshop materials for "How to Stay Safe and Secure Online" by Chelcie Juliet Rowell and Paige Walker are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>. This workshop was held on September 12, 2018, as part of the Coffee & Code workshop series hosted by the Digital Scholarship Group at Boston College Libraries.
