@@ -27,10 +27,10 @@ Two strategies:
 
 ### Scenario 2. You've been hacked! :scream:
 
-* Phishing: it's not just about Nigerian princes  
+* Phishing: it's not just about Nigerian princes
+* Why single sign-ons (SSOs) are actually terrible  
 * How to manage password fatigue  
 * Why two-factor authentication matters  
-* Why single sign-ons (SSOs) are actually terrible  
 
 ### Scenario 3. Online dating :love_letter:
 
