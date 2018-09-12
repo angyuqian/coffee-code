@@ -4,7 +4,11 @@ Feeling freaked out by all the cyber breaches lately? Want to plan an activist m
 
 ## Intro
 
-We live so much of our lives online, and Google, Facebook, and Amazon already know everything about us, so should we even bother taking steps to safeguard our online privacy? YES. There are specific strategies you can use so that you can stay safe in the online spaces that are important to you.
+We live so much of our lives online, and Google, Facebook, and Amazon already know everything about us, so should we even bother taking steps to safeguard our online privacy? And if you have nothing to hide, should you even be concerned about your privacy? YES. As [Glenn Greenwald said in coversation with the Huffington Post](https://www.huffingtonpost.com/2014/06/20/glenn-greenwald-privacy_n_5509704.html):
+
+> We all need places where we can go to explore without the judgmental eyes of other people being cast upon us, only in a realm where we’re not being watched can we really test the limits of who we want to be. It’s really in the private realm where dissent, creativity and personal exploration lie.
+
+There are specific strategies you can use so that you can stay safe from prying eyes in the online spaces that are important to you.
 
 First things first, what's your privacy personality? Take this [5-minute quiz](https://wnyc.typeform.com/to/CWAeSB) developed for [The Privacy Paradox](https://project.wnyc.org/privacy-paradox), a project of [Note to Self](https://www.wnycstudios.org/shows/notetoself), WNYC's tech show about being human.
 
@@ -58,17 +62,18 @@ We're devoting the last 30 minutes of our time together to actually downloading 
 
 * Blue, Violet. <i>The Smart Girl's Guide to Privacy</i>. San Francisco: No Starch Press, 2015.  
 * Citron, Danielle. <i>Hate Crimes in Cyberspace</i>. Cambridge: Harvard University Press, 2014.  
-* Cyber Civil Rights Initiative. "Crisis Helpline." Accessed September 12, 2018. https://www.cybercivilrights.org/ccri-crisis-helpline/.  
-* Cyber Civil Rights Initiative. "Online Removal Guide." Accessed September 12, 2018. https://www.cybercivilrights.org/online-removal/.   
-* Department of Justice. "Massachusetts Man Arrested and Charged with Cyberstalking Former Roommate." Last modified October 7, 2017. https://www.justice.gov/opa/pr/massachusetts-man-arrested-and-charged-cyberstalking-former-roommate.  
+* Cyber Civil Rights Initiative. "[Crisis Helpline](https://www.cybercivilrights.org/ccri-crisis-helpline)." Accessed September 12, 2018.  
+* Cyber Civil Rights Initiative. "[Online Removal Guide](https://www.cybercivilrights.org/online-removal)." Accessed September 12, 2018.   
+* Department of Justice. "[Massachusetts Man Arrested and Charged with Cyberstalking Former Roommate](https://www.justice.gov/opa/pr/massachusetts-man-arrested-and-charged-cyberstalking-former-roommate)." Last modified October 7, 2017.  
 * Dubrofsky, Rachel E. and Shoshana Amielle Magnet, eds. <i>Feminist Surveillance Studies</i>. Durham: Duke University Press, 2015.  
-* Federal Bureau of Investigation. "Internet Crime Complaint Center (IC3)." Accessed September 12, 2018. https://www.ic3.gov/.  
-* FightCyberstalking.org. "Fight Cyberstalking Toolkit." Last modified October 4, 2016. https://www.fightcyberstalking.org/fight-cyberstalking-toolkit/.   
-* Kelley, Noah. "A DIY Guide to Feminist Cybersecurity." Accessed September 12, 2018. https://hackblossom.org/cybersecurity/.  
-* National Network to End Domestic Violence. "Plain-Language Legal Information for Victims of Abuse." WomensLaw.org. Accessed September 12, 2018. https://womenslaw.org. 
-* National Network to End Domestic Violence. "Safety Net: the National Safe & Strategic Technology Project." Safety Net. Accessed September 12, 2018. https://nnedv.org/content/safety-net/.  
-* Pew Research Center. <i>Online Harassment 2017</i>. July 2017. http://www.pewinternet.org/2017/07/11/online-harassment-2017/.  
-* U.S. Congress, House, <i>Ending Nonconsensual Online User Graphic Harassment Act of 2017</i>, HR 4472, 115th Congress, 1st sess., https://www.govinfo.gov/app/details/BILLS-115hr4472ih.
+* Federal Bureau of Investigation. "[Internet Crime Complaint Center (IC3)](https://www.ic3.gov)." Accessed September 12, 2018.  
+* FightCyberstalking.org. "[Fight Cyberstalking Toolkit](https://www.fightcyberstalking.org/fight-cyberstalking-toolkit)." Last modified October 4, 2016.   
+* Kelley, Noah. "[A DIY Guide to Feminist Cybersecurity](https://hackblossom.org/cybersecurity)." Accessed September 12, 2018.  
+* National Network to End Domestic Violence. "[Plain-Language Legal Information for Victims of Abuse](https://womenslaw.org)." WomensLaw.org. Accessed September 12, 2018. 
+* National Network to End Domestic Violence. "[Safety Net: the National Safe & Strategic Technology Project](https://nnedv.org/content/safety-net)." Safety Net. Accessed September 12, 2018.  
+* Pew Research Center. <i>[Online Harassment 2017](http://www.pewinternet.org/2017/07/11/online-harassment-2017)</i>. July 2017.
+* [PrivacyTools.io](https://www.privacytools.io). Accessed September 12, 2018.
+* U.S. Congress, House, <i>[Ending Nonconsensual Online User Graphic Harassment Act of 2017](https://www.govinfo.gov/app/details/BILLS-115hr4472ih)</i>, HR 4472, 115th Congress, 1st session.
 
 ---
 
