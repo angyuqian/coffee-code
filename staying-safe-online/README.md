@@ -60,20 +60,20 @@ We're devoting the last 30 minutes of our time together to actually downloading 
 
 ## Resources  
 
-* Blue, Violet. <i>The Smart Girl's Guide to Privacy</i>. San Francisco: No Starch Press, 2015.  
-* Citron, Danielle. <i>Hate Crimes in Cyberspace</i>. Cambridge: Harvard University Press, 2014.  
+* Blue, Violet. [The Smart Girl's Guide to Privacy](http://www.worldcat.org/oclc/943607897). San Francisco: No Starch Press, 2015.  
+* Citron, Danielle. [Hate Crimes in Cyberspace](http://www.worldcat.org/oclc/1018087656). Cambridge: Harvard University Press, 2014.  
 * Cyber Civil Rights Initiative. "[Crisis Helpline](https://www.cybercivilrights.org/ccri-crisis-helpline)." Accessed September 12, 2018.  
 * Cyber Civil Rights Initiative. "[Online Removal Guide](https://www.cybercivilrights.org/online-removal)." Accessed September 12, 2018.   
 * Department of Justice. "[Massachusetts Man Arrested and Charged with Cyberstalking Former Roommate](https://www.justice.gov/opa/pr/massachusetts-man-arrested-and-charged-cyberstalking-former-roommate)." Last modified October 7, 2017.  
-* Dubrofsky, Rachel E. and Shoshana Amielle Magnet, eds. <i>Feminist Surveillance Studies</i>. Durham: Duke University Press, 2015.  
+* Dubrofsky, Rachel E. and Shoshana Amielle Magnet, eds. [Feminist Surveillance Studies](http://www.worldcat.org/oclc/941724455). Durham: Duke University Press, 2015.  
 * Federal Bureau of Investigation. "[Internet Crime Complaint Center (IC3)](https://www.ic3.gov)." Accessed September 12, 2018.  
 * FightCyberstalking.org. "[Fight Cyberstalking Toolkit](https://www.fightcyberstalking.org/fight-cyberstalking-toolkit)." Last modified October 4, 2016.   
 * Kelley, Noah. "[A DIY Guide to Feminist Cybersecurity](https://hackblossom.org/cybersecurity)." Accessed September 12, 2018.  
 * National Network to End Domestic Violence. "[Plain-Language Legal Information for Victims of Abuse](https://womenslaw.org)." WomensLaw.org. Accessed September 12, 2018. 
 * National Network to End Domestic Violence. "[Safety Net: the National Safe & Strategic Technology Project](https://nnedv.org/content/safety-net)." Safety Net. Accessed September 12, 2018.  
-* Pew Research Center. <i>[Online Harassment 2017](http://www.pewinternet.org/2017/07/11/online-harassment-2017)</i>. July 2017.
+* Pew Research Center. [Online Harassment 2017](http://www.pewinternet.org/2017/07/11/online-harassment-2017). July 2017.
 * [PrivacyTools.io](https://www.privacytools.io). Accessed September 12, 2018.
-* U.S. Congress, House, <i>[Ending Nonconsensual Online User Graphic Harassment Act of 2017](https://www.govinfo.gov/app/details/BILLS-115hr4472ih)</i>, HR 4472, 115th Congress, 1st session.
+* U.S. Congress, House, [Ending Nonconsensual Online User Graphic Harassment Act of 2017](https://www.govinfo.gov/app/details/BILLS-115hr4472ih), HR 4472, 115th Congress, 1st session.
 
 ---
 
