@@ -79,3 +79,5 @@ We're devoting the last 30 minutes of our time together to actually downloading 
 ---
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />Workshop materials for "How to Stay Safe and Secure Online" by Chelcie Juliet Rowell and Paige Walker are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>. This workshop was held on September 12, 2018, as part of the Coffee & Code workshop series hosted by the Digital Scholarship Group at Boston College Libraries.
+
+Access this doc at http://bit.ly/bc-safe-online.
