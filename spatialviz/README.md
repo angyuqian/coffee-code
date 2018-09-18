@@ -31,3 +31,6 @@ Consider your own research or pedagogical needs. What type of question(s) or arg
 - What type of data source(s) would you need? 
 - Would you create your own data or require an existing dataset?
 - What kind of resources might you need access to?
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />
+Workshop materials for "Basics of Spatial Visualization" by Allison Xu and Anna Kijas are licensed under a Creative Commons Attribution 4.0 International License. This workshop was held on September 19, 2018, as part of the [Coffee & Code workshop series](https://ds.bc.edu/2018-fall-events/) hosted by the Digital Scholarship Group at Boston College Libraries.
