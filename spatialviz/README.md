@@ -10,7 +10,7 @@ In this exercise you will select one project listed below and answer several que
 - Esri. [Males and Females without health insurance in the United States](https://arcg.is/LajuL) 
 - Kijas, Anna. [IMLS Discretionary Grant Funding 1996-2014](https://public.tableau.com/views/IMLSDiscretionaryGrantFunding1996-2014/IMLSGrants1996-2014)
 - Knightlab. [Arya’s Journey](https://storymap.knightlab.com/examples/aryas-journey/)
-- MIT Seseable City Lab. [Treepedia](http://senseable.mit.edu/treepedia/cities/boston) 
+- MIT Senseable City Lab. [Treepedia](http://senseable.mit.edu/treepedia/cities/boston) 
 
 ## Questions to Consider
 
