@@ -10,7 +10,7 @@ This workshop will introduce participants to visualizing spatial data, creating 
 2. Review and download sample datasets
     - [Crime incident reports]()
     - [Census tracts for Suffolk County]()
-    - [Police Districts in Boston, Massachusetts]()
+    - [Police Districts in Boston, Massachusetts](/Carto-Workshop/Carto-2018-Fall/boston_police_stations.csv)
     - [Climate Data]()
 
 3. Geocoding Location Data with [OpenRefine](http://openrefine.org/) & [OpenCage Geocoder API](https://opencagedata.com/)
