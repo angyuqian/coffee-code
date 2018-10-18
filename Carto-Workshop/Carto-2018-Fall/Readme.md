@@ -34,14 +34,14 @@ This workshop will introduce participants to visualizing spatial data, creating 
 
 
 ## GIS Datasets used in this workshop
-    - [American FactFinder, Census Tracts](https://factfinder.census.gov/faces/nav/jsf/pages/searchresults.xhtml?refresh=t)
-    - [Analyze Boston, Crime Incident Reports](https://data.boston.gov/dataset/crime-incident-reports-july-2012-august-2015-source-legacy-system)
-    - [Analyze Boston, Police districts in Boston](https://data.boston.gov/dataset/police-districts)
-    - [U.S. Climate Data](https://www.usclimatedata.com/climate/boston/massachusetts/united-states/usma0046)
+   - [American FactFinder, Census Tracts](https://factfinder.census.gov/faces/nav/jsf/pages/searchresults.xhtml?refresh=t)
+   - [Analyze Boston, Crime Incident Reports](https://data.boston.gov/dataset/crime-incident-reports-july-2012-august-2015-source-legacy-system)
+   - [Analyze Boston, Police districts in Boston](https://data.boston.gov/dataset/police-districts)
+   - [U.S. Climate Data](https://www.usclimatedata.com/climate/boston/massachusetts/united-states/usma0046)
 
 
 ## Carto Tutorials
-    -  [Create a buffer zone](https://carto.com/learn/guides/analysis/create-travel-distance-buffers/)
-    -  [Add columns from second dataset](https://carto.com/learn/guides/analysis/add-columns-from-second-dataset/)
-    - [Creating Choropleth Maps](https://carto.com/learn/guides/styling/choropleth-map-for-statistical-data/)
-    - [Style by value](https://carto.com/learn/guides/styling/style-by-value/)
+   - [Add columns from second dataset](https://carto.com/learn/guides/analysis/add-columns-from-second-dataset/)
+   - [Create a buffer zone](https://carto.com/learn/guides/analysis/create-travel-distance-buffers/)
+   - [Creating Choropleth Maps](https://carto.com/learn/guides/styling/choropleth-map-for-statistical-data/)
+   - [Style by value](https://carto.com/learn/guides/styling/style-by-value/)
