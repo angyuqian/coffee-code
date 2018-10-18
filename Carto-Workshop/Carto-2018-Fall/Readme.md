@@ -1,5 +1,5 @@
 # Introduction to Spatial Visualization & Analysis
-This material was created for a [workshop](http://libcal.bc.edu/event/4540756) offered as part of the [Coffee & Code series](https://ds.bc.edu/events/) offered by the Digital Scholarship Group at Boston College Libraries.
+This material was created for a [workshop](http://libcal.bc.edu/event/4540756) offered as part of the [Coffee & Code series](https://ds.bc.edu/events/) by the Digital Scholarship Group at Boston College Libraries.
 
 ## Learning Goals
 This workshop will introduce participants to visualizing spatial data, creating maps with points and polygons, and performing basic data analysis with [Carto](https://carto.com/). Participants will get a hands-on experience using the Carto platform and will learn how to geocode point data using [OpenRefine](http://openrefine.org/) by applying [GREL string functions]( https://github.com/OpenRefine/OpenRefine/wiki/GREL-String-Functions).
@@ -7,7 +7,7 @@ This workshop will introduce participants to visualizing spatial data, creating 
 ## Workshop Overview
 1. Discuss basic GIS terms and concepts
 
-2. Review sample datasets
+2. Review and download sample datasets
     - [Crime incident reports]()
     - [Census tracts for Suffolk County]()
     - [Police Districts in Boston, Massachusetts]()
