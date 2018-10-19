@@ -15,7 +15,7 @@ This workshop will introduce participants to visualizing spatial data, creating 
     - [Climate Data](/Carto-Workshop/Carto-2018-Fall/boston-climate-data.csv)
 
 3. Geocoding Location Data with [OpenRefine](http://openrefine.org/) & [OpenCage Geocoder API](https://opencagedata.com/)
-    - We will use this [sample dataset]()
+    - We will use this [sample dataset](/Carto-Workshop/Carto-2018-Fall/boston_police_stations_nocoord.csv)
     - Instructions for geocoding:
       - Add column by fetching URLs based on on (address) column
       - Give your new column a name
