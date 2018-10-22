@@ -7,15 +7,15 @@ This workshop will introduce participants to visualizing spatial data, creating 
 ## Workshop Overview
 1. Discuss basic GIS terms and concepts
 
-2. Review and download sample datasets
-    - [Crime incident reports](/Carto-Workshop/Carto-2018-Fall/boston_crime_incident_reports_2013.csv)
-    - [Census tracts for Suffolk County](/Carto-Workshop/Carto-2018-Fall/suffolk_ma__censustracts.zip)
-    - [Population Density in Suffolk County](/Carto-Workshop/Carto-2018-Fall/table_14000_popdensity.csv)
-    - [Police Districts in Boston, Massachusetts](/Carto-Workshop/Carto-2018-Fall/boston_police_stations.csv)
-    - [Climate Data](/Carto-Workshop/Carto-2018-Fall/boston-climate-data.csv)
+2. [Download datasets](https://github.com/BCDigSchol/coffee-code/blob/master/Carto-Workshop/Carto-2018-Fall/201810_data_sets.zip) and review
+    - Crime incident reports
+    - Census tracts for Suffolk County
+    - Population Density in Suffolk County 
+    - Police Districts in Boston, Massachusetts
+    - Climate Data
 
 3. Geocoding Location Data with [OpenRefine](http://openrefine.org/) & [OpenCage Geocoder API](https://opencagedata.com/)
-    - We will use this [sample dataset](/Carto-Workshop/Carto-2018-Fall/boston_police_stations_nocoord.csv)
+    - We will use a sample dataset (file: boston_police_stations_nocoord.csv)
     - Instructions for geocoding:
       - Add column by fetching URLs based on on (address) column
       - Give your new column a name
